@@ -1,2 +1,2 @@
 # PGH-Inventory-System
-System f
+This is a web application to manage an inventory system.
